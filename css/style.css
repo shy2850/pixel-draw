@@ -1,0 +1,26 @@
+body {
+    background: #272822;
+}
+.container {
+    width: 600px;
+    text-align: center;
+    margin: 50px auto;
+}
+canvas {
+    background: #fff;
+}
+#color {
+    margin-top: 30px;
+    height: 30px;
+    line-height: 30px;
+    color: #fff;
+    background: green;
+}
+#show {
+    transform: scale(.5);
+    transform-origin: 50% 0;
+    font: normal 12px/12px 'Consolas';
+    letter-spacing: 4px;
+    color: #333;
+    background: #fff;
+}
