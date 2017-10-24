@@ -20,7 +20,7 @@
                     drawImage()
                 }
             }
-            img.src = `../img/frames/frame_${i < 10 ? '0' + i : i}_delay-0.07s.gif`
+            img.src = `img/frames/frame_${i < 10 ? '0' + i : i}_delay-0.07s.gif`
             return img
         })
     
